@@ -1,0 +1,17 @@
+﻿  Main.cpp
+C:\Users\Toha\source\repos\Geometra\Geometra\triangle.h(96,42): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Users\Toha\source\repos\Geometra\Geometra\triangle.h(95): message : во время компиляции функции-члена класс шаблон "float Triangle<char>::Area(void)"
+C:\Users\Toha\source\repos\Geometra\Geometra\triangle.h(29): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Triangle<char>"
+C:\Users\Toha\source\repos\Geometra\Geometra\Circle.h(113,29): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Toha\source\repos\Geometra\Geometra\Circle.h(112): message : во время компиляции функции-члена класс шаблон "float Circle<int>::Area(void)"
+C:\Users\Toha\source\repos\Geometra\Geometra\Main.cpp(30): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Circle<int>"
+C:\Users\Toha\source\repos\Geometra\Geometra\Square.h(112,18): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Users\Toha\source\repos\Geometra\Geometra\Square.h(111): message : во время компиляции функции-члена класс шаблон "float Square<int>::Area(void)"
+C:\Users\Toha\source\repos\Geometra\Geometra\Main.cpp(33): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Square<int>"
+C:\Users\Toha\source\repos\Geometra\Geometra\Rectangle.h(125,19): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Users\Toha\source\repos\Geometra\Geometra\Rectangle.h(124): message : во время компиляции функции-члена класс шаблон "float Rectangle<int>::Area(void)"
+C:\Users\Toha\source\repos\Geometra\Geometra\Main.cpp(36): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Rectangle<int>"
+C:\Users\Toha\source\repos\Geometra\Geometra\Cube.h(114,25): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Users\Toha\source\repos\Geometra\Geometra\Cube.h(113): message : во время компиляции функции-члена класс шаблон "float Cube<char>::Area(void)"
+C:\Users\Toha\source\repos\Geometra\Geometra\Main.cpp(41): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Cube<char>"
+  Geometra.vcxproj -> C:\Users\Toha\source\repos\Geometra\Debug\Geometra.exe
